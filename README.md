@@ -1,8 +1,12 @@
 Hi, 
-I am currently pursuing a Master's degree in Computer Science from San Jose State Universtiy (2021 - 2023)
-I have a bachelor's degree in Computer Engineering and almost 3 years of full--time work experience in backend software development. I spent a majority of my time developing microservices and RESTful APIs.
+I am a software engineer who likes to build cool stuff.. I have 4.5 years of full-time work experience in full-stack, mainly backend, cloud, devops, etc. I spent the majority of my time developing microservices and RESTful APIs.
+
+
+Have a Master's degree in Computer Science from San Jose State Universtiy (2021 - 2023) and a bachelor's degree in Computer Engineering.
+
 I interned at Meta at their Menlo Park office this summer, of 2022, as a full stack software engineer working on an internal metrics' product.
-Currently, I am looking for Spring 2023 full-time SWE opportunities.
+
+If you have any exciting SWE midlevel roles, hit me up..
 You can reach me out at - nimesh.doolani@gmail.com
 
 <!---
